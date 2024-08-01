@@ -46,7 +46,7 @@ The only stage here that needs help is after the install when it boots back into
 All you have to do is copy that device tree file to the root of the EFI partition again, and U-Boot should automatically load it on boot.
 
 ## Step 6 - Success
-![alt text](https://github.com/goldenkrew3000/pcduino3-openbsd/neofetch.png?raw=true)
+![alt text](https://github.com/Goldenkrew3000/pcDuino3-OpenBSD/blob/main/neofetch.png?raw=true)
 Note: The board says that it's a pcDuino3 Nano, but this does not matter since the difference between the two is extremely minimal.
 
 ## Notes
